@@ -1,3 +1,13 @@
-/*body{
-	background-color: black
+/*.bar_chart rect {
+  color: steelblue;
+}
+*/
+/*.chart text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: middle;
 }*/
+
+.bar_chart div{
+	background-color: black;
+}
